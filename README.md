@@ -1,2 +1,2 @@
 # PythonCrashCourse
-Code from going through multiple Python books and courses
+Testing using GitHub and learning Python
